@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Etiam
-description: Feugiat amet tempus
+title: The Responsibility of Empathy
+description: With the power of empathy comes great responsibility.
 image: assets/images/pic06.jpg
 ---
 
