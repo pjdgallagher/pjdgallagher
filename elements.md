@@ -1,7 +1,8 @@
 ---
 layout: page
 title: Elements
-nav-menu: true
+nav-menu: false
+order: 6
 ---
 
 <!-- Main -->

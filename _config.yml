@@ -1,5 +1,6 @@
 # site settings
-title: Patrick Despres-Gallagher
+title: Patrick
+sub-title: Despres-Gallagher
 email: pjdgallagher@gmail.com
 description: 
 baseurl: "/pjdgallagher" # the subpath of your site, e.g. /blog
