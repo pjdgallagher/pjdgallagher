@@ -1,25 +1,20 @@
 # site settings
-title: Patrick
-subtitle: Despres-Gallagher
+title: Patrick Despres-Gallagher
 email: pjdgallagher@gmail.com
 description: 
 baseurl: "/pjdgallagher" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
-author:
-state: CA
+author: Patrick Despres-Gallagher
 
 # homepage tiles
 tiles-source: posts # accepts "posts" or "pages"
-tiles-count: 6
+tiles-count: 4
 
 # social settings
-facebook_url:
-github_url: https://github.com/u/pjdgallagher
 instagram_url: https://instagram.com/pjdgallagher
 linkedin_url: https://www.linkedin.com/in/pjdgallagher
-pinterest_url:
-slack_url:
 twitter_url: https://twitter.com/pjdgallagher
+github_url: https://github.com/u/pjdgallagher
 
 # build settings
 markdown: kramdown
