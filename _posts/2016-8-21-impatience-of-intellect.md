@@ -1,8 +1,8 @@
 ---
 layout: post
-title: The Responsibility of Empathy
-description: With the power of empathy comes great responsibility.
-image: assets/images/pic06.jpg
+title: The Rise of Intellectual Impatience
+description: Why knowing the answer is only the beginning
+image: assets/images/pic05.jpg
 ---
 
 Donec eget ex magna. Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis. 

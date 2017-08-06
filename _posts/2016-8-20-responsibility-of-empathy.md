@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Consequat
-description: Ipsum dolor sit amet
-image: assets/images/pic05.jpg
+title: The Responsibility of Empathy
+description: Great power requires great responsibility.
+image: assets/images/pic06.jpg
 ---
 
 Donec eget ex magna. Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis. 

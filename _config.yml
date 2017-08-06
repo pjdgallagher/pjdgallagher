@@ -1,6 +1,6 @@
 # site settings
 title: Patrick
-sub-title: Despres-Gallagher
+subtitle: Despres-Gallagher
 email: pjdgallagher@gmail.com
 description: 
 baseurl: "/pjdgallagher" # the subpath of your site, e.g. /blog
@@ -15,7 +15,7 @@ tiles-count: 4
 instagram_url: https://instagram.com/pjdgallagher
 linkedin_url: https://www.linkedin.com/in/pjdgallagher
 twitter_url: https://twitter.com/pjdgallagher
-github_url: https://github.com/u/pjdgallagher
+github_url: https://github.com/pjdgallagher
 
 # build settings
 markdown: kramdown
